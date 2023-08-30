@@ -39,9 +39,9 @@ Relies on Firebase Realtime Firestore and Database for data storage, ensuring in
 Uses backend(API) to send email to patients and doctors
 
 <h2>App Screenshots</h2>
-<img src="CI/1.png" width="800">
-<img src="CI/2.png" width="800">
-<img src="CI/3.png" width="800">
-<img src="CI/4.png" width="800">
-<img src="CI/5.png" width="800">
-<img src="CI/6.png" width="800">
+<img src="Images/1.png" width="800">
+<img src="Images/2.png" width="800">
+<img src="Images/3.png" width="800">
+<img src="Images/4.png" width="800">
+<img src="Images/5.png" width="800">
+<img src="Images/6.png" width="800">
